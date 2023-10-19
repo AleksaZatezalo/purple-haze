@@ -1,0 +1,21 @@
+{
+  "name": "purple-haze",
+  "displayName": "purple haze",
+  "description": "A purple theme for VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple HaZzZe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple HaZzZe-color-theme.json"
+      }
+    ]
+  }
+}
