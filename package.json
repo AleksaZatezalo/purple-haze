@@ -3,6 +3,11 @@
   "displayName": "purple haze",
   "description": "A purple theme for VS Code.",
   "version": "0.0.1",
+  "publisher": "AleksaZatezalo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleksaZatezalo/purple-haze"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
